@@ -1,0 +1,33 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    padding:20px;
+}
+h2{
+    background-color:blue;
+    padding:13px;
+    color:rgb(245, 255, 211);
+    width:17%;
+}
+body{
+   background-color: blanchedalmond;
+}
+
+image{
+    width:200px;
+    height: 250px;
+}
+h3{
+    color: rgb(92, 160, 114);
+    
+    
+}
+container{
+    width: 1024px;
+    margin: 0px;
+}
+#main-bio,
+#contact-info,
+#bio-image{
+    float: left;
+}
